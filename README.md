@@ -1,0 +1,1 @@
+# Python-code-for-area-of-rectangle.-
